@@ -1,0 +1,1948 @@
+[
+  {
+    "company_id": "ba7c5cf0236d1b0d",
+    "name": "CoreWeave",
+    "sector": "AI_Infra",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "GPU shortage for AI training and inference",
+    "funding_rounds": [
+      {
+        "date": "2023-04-15T00:00:00",
+        "amount": 421000000.0,
+        "lead_investor": "Magnetar Capital",
+        "valuation": 2000000000.0,
+        "round_type": "Series C"
+      },
+      {
+        "date": "2024-05-20T00:00:00",
+        "amount": 1100000000.0,
+        "lead_investor": "Coatue",
+        "valuation": 19000000000.0,
+        "round_type": "Series C Extension"
+      }
+    ],
+    "total_funding": 2300000000.0,
+    "last_valuation": 19000000000.0,
+    "patent_grants": [
+      {
+        "grant_date": "2024-03-10T00:00:00",
+        "patent_id": "US11234567",
+        "title": "GPU cluster orchestration system",
+        "citation_count": 12,
+        "technology_cluster": "Cloud GPU Infrastructure"
+      }
+    ],
+    "patent_count": 8,
+    "executive_hires": [
+      {
+        "date": "2024-08-01T00:00:00",
+        "role": "Chief Financial Officer",
+        "name": "John Smith",
+        "previous_company": "AWS",
+        "is_ipo_signal": true
+      }
+    ],
+    "employee_count": 1800,
+    "engineer_pct": 65.0,
+    "faang_talent_pct": 28.0,
+    "public_proxies": [
+      {
+        "ticker": "NVDA",
+        "exposure_type": "GPU supplier",
+        "correlation_score": 0.78,
+        "revenue_exposure_pct": null
+      }
+    ],
+    "fortune_500_customers": 85,
+    "estimated_arr": 750000000.0,
+    "ipo_probability_6mo": 0.34,
+    "ipo_probability_12mo": 0.71,
+    "expected_ipo_date": "2026-04-15T00:00:00",
+    "founded_date": "2017-01-01T00:00:00",
+    "headquarters": "Roseland, NJ",
+    "website": "https://www.coreweave.com"
+  },
+  {
+    "company_id": "493727d6225ff1b2",
+    "name": "Groq",
+    "sector": "AI_Infra",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "AI inference latency for real-time applications",
+    "funding_rounds": [
+      {
+        "date": "2024-08-05T00:00:00",
+        "amount": 640000000.0,
+        "lead_investor": "BlackRock",
+        "valuation": 2800000000.0,
+        "round_type": "Series D"
+      }
+    ],
+    "total_funding": 1064000000.0,
+    "last_valuation": 2800000000.0,
+    "patent_grants": [
+      {
+        "grant_date": "2024-01-15T00:00:00",
+        "patent_id": "US11345678",
+        "title": "Low-latency tensor processing unit architecture",
+        "citation_count": 45,
+        "technology_cluster": "Inference Acceleration"
+      }
+    ],
+    "patent_count": 67,
+    "executive_hires": [],
+    "employee_count": 450,
+    "engineer_pct": 72.0,
+    "faang_talent_pct": 42.0,
+    "public_proxies": [
+      {
+        "ticker": "NVDA",
+        "exposure_type": "Competitor exposure",
+        "correlation_score": 0.65,
+        "revenue_exposure_pct": null
+      }
+    ],
+    "fortune_500_customers": 32,
+    "estimated_arr": 85000000.0,
+    "ipo_probability_6mo": 0.15,
+    "ipo_probability_12mo": 0.38,
+    "expected_ipo_date": null,
+    "founded_date": "2016-01-01T00:00:00",
+    "headquarters": "Mountain View, CA",
+    "website": "https://groq.com"
+  },
+  {
+    "company_id": "383c158159d3b9d6",
+    "name": "Cerebras Systems",
+    "sector": "AI_Infra",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "AI training scalability with wafer-scale integration",
+    "funding_rounds": [
+      {
+        "date": "2021-11-18T00:00:00",
+        "amount": 250000000.0,
+        "lead_investor": "Alpha Wave Ventures",
+        "valuation": 4000000000.0,
+        "round_type": "Series F"
+      }
+    ],
+    "total_funding": 715000000.0,
+    "last_valuation": 4000000000.0,
+    "patent_grants": [
+      {
+        "grant_date": "2023-06-20T00:00:00",
+        "patent_id": "US11456789",
+        "title": "Wafer-scale chip interconnect system",
+        "citation_count": 89,
+        "technology_cluster": "AI Training Hardware"
+      }
+    ],
+    "patent_count": 142,
+    "executive_hires": [
+      {
+        "date": "2024-02-10T00:00:00",
+        "role": "Chief Commercial Officer",
+        "name": "Sarah Johnson",
+        "previous_company": "NVIDIA",
+        "is_ipo_signal": true
+      }
+    ],
+    "employee_count": 620,
+    "engineer_pct": 68.0,
+    "faang_talent_pct": 35.0,
+    "public_proxies": [
+      {
+        "ticker": "NVDA",
+        "exposure_type": "Training hardware competitor",
+        "correlation_score": 0.58,
+        "revenue_exposure_pct": null
+      }
+    ],
+    "fortune_500_customers": 18,
+    "estimated_arr": 125000000.0,
+    "ipo_probability_6mo": 0.28,
+    "ipo_probability_12mo": 0.59,
+    "expected_ipo_date": null,
+    "founded_date": "2016-01-01T00:00:00",
+    "headquarters": "Sunnyvale, CA",
+    "website": "https://cerebras.net"
+  },
+  {
+    "company_id": "1551e58e6eced00a",
+    "name": "Together AI",
+    "sector": "AI_Infra",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "Decentralized GPU compute orchestration",
+    "funding_rounds": [
+      {
+        "date": "2024-06-12T00:00:00",
+        "amount": 106000000.0,
+        "lead_investor": "Kleiner Perkins",
+        "valuation": 1250000000.0,
+        "round_type": "Series A"
+      }
+    ],
+    "total_funding": 142500000.0,
+    "last_valuation": 1250000000.0,
+    "patent_grants": [],
+    "patent_count": 3,
+    "executive_hires": [],
+    "employee_count": 180,
+    "engineer_pct": 78.0,
+    "faang_talent_pct": 48.0,
+    "public_proxies": [],
+    "fortune_500_customers": 42,
+    "estimated_arr": 48000000.0,
+    "ipo_probability_6mo": 0.05,
+    "ipo_probability_12mo": 0.18,
+    "expected_ipo_date": null,
+    "founded_date": "2022-01-01T00:00:00",
+    "headquarters": "San Francisco, CA",
+    "website": "https://together.ai"
+  },
+  {
+    "company_id": "69f26471d79867df",
+    "name": "Lambda Labs",
+    "sector": "AI_Infra",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "Accessible GPU cloud for AI researchers",
+    "funding_rounds": [
+      {
+        "date": "2023-08-22T00:00:00",
+        "amount": 44000000.0,
+        "lead_investor": "1517 Fund",
+        "valuation": 320000000.0,
+        "round_type": "Series C"
+      }
+    ],
+    "total_funding": 108000000.0,
+    "last_valuation": 320000000.0,
+    "patent_grants": [],
+    "patent_count": 2,
+    "executive_hires": [],
+    "employee_count": 240,
+    "engineer_pct": 64.0,
+    "faang_talent_pct": 22.0,
+    "public_proxies": [
+      {
+        "ticker": "NVDA",
+        "exposure_type": "GPU reseller",
+        "correlation_score": 0.72,
+        "revenue_exposure_pct": null
+      }
+    ],
+    "fortune_500_customers": 28,
+    "estimated_arr": 95000000.0,
+    "ipo_probability_6mo": 0.12,
+    "ipo_probability_12mo": 0.35,
+    "expected_ipo_date": null,
+    "founded_date": "2012-01-01T00:00:00",
+    "headquarters": "San Francisco, CA",
+    "website": "https://lambdalabs.com"
+  },
+  {
+    "company_id": "50678f008324fc4b",
+    "name": "Modular",
+    "sector": "AI_Infra",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "AI developer productivity and deployment simplification",
+    "funding_rounds": [
+      {
+        "date": "2024-08-15T00:00:00",
+        "amount": 100000000.0,
+        "lead_investor": "General Catalyst",
+        "valuation": 600000000.0,
+        "round_type": "Series B"
+      }
+    ],
+    "total_funding": 130000000.0,
+    "last_valuation": 600000000.0,
+    "patent_grants": [],
+    "patent_count": 5,
+    "executive_hires": [],
+    "employee_count": 105,
+    "engineer_pct": 82.0,
+    "faang_talent_pct": 58.0,
+    "public_proxies": [],
+    "fortune_500_customers": 18,
+    "estimated_arr": 12000000.0,
+    "ipo_probability_6mo": 0.08,
+    "ipo_probability_12mo": 0.22,
+    "expected_ipo_date": null,
+    "founded_date": "2022-01-01T00:00:00",
+    "headquarters": "Palo Alto, CA",
+    "website": "https://modular.com"
+  },
+  {
+    "company_id": "1ba64e004c1dbdb9",
+    "name": "SambaNova Systems",
+    "sector": "AI_Infra",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "AI infrastructure bottleneck - sambanova systems focus",
+    "funding_rounds": [
+      {
+        "date": "2024-04-19T00:00:00",
+        "amount": 1318000000.0,
+        "lead_investor": "Lightspeed",
+        "valuation": 5100000000.0,
+        "round_type": "Series D"
+      }
+    ],
+    "total_funding": 1318000000.0,
+    "last_valuation": 5100000000.0,
+    "patent_grants": [],
+    "patent_count": 24,
+    "executive_hires": [],
+    "employee_count": 631,
+    "engineer_pct": 74.63342707564476,
+    "faang_talent_pct": 29.44147063924033,
+    "public_proxies": [],
+    "fortune_500_customers": 35,
+    "estimated_arr": 220000000.0,
+    "ipo_probability_6mo": 0.1307906753942103,
+    "ipo_probability_12mo": 0.24409732950368185,
+    "expected_ipo_date": null,
+    "founded_date": "2019-01-01T00:00:00",
+    "headquarters": "Palo Alto, CA",
+    "website": "https://sambanovasystems.com"
+  },
+  {
+    "company_id": "60cc6a47bc9c5ec3",
+    "name": "d-Matrix",
+    "sector": "AI_Infra",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "AI infrastructure bottleneck - d-matrix focus",
+    "funding_rounds": [
+      {
+        "date": "2024-01-17T00:00:00",
+        "amount": 154000000.0,
+        "lead_investor": "Lightspeed",
+        "valuation": 580000000.0,
+        "round_type": "Series D"
+      }
+    ],
+    "total_funding": 154000000.0,
+    "last_valuation": 580000000.0,
+    "patent_grants": [],
+    "patent_count": 11,
+    "executive_hires": [],
+    "employee_count": 201,
+    "engineer_pct": 76.4456732761933,
+    "faang_talent_pct": 38.30381502978315,
+    "public_proxies": [],
+    "fortune_500_customers": 12,
+    "estimated_arr": 18000000.0,
+    "ipo_probability_6mo": 0.14834842779378793,
+    "ipo_probability_12mo": 0.24071942679939468,
+    "expected_ipo_date": null,
+    "founded_date": "2020-01-01T00:00:00",
+    "headquarters": "San Francisco, CA",
+    "website": "https://d-matrix.com"
+  },
+  {
+    "company_id": "1bf43af666bab74f",
+    "name": "Anyscale",
+    "sector": "AI_Infra",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "AI infrastructure bottleneck - anyscale focus",
+    "funding_rounds": [
+      {
+        "date": "2024-09-07T00:00:00",
+        "amount": 259000000.0,
+        "lead_investor": "Lightspeed",
+        "valuation": 1000000000.0,
+        "round_type": "Series B"
+      }
+    ],
+    "total_funding": 259000000.0,
+    "last_valuation": 1000000000.0,
+    "patent_grants": [],
+    "patent_count": 13,
+    "executive_hires": [],
+    "employee_count": 309,
+    "engineer_pct": 79.8088928707974,
+    "faang_talent_pct": 32.27680388469025,
+    "public_proxies": [],
+    "fortune_500_customers": 58,
+    "estimated_arr": 45000000.0,
+    "ipo_probability_6mo": 0.12163093586313177,
+    "ipo_probability_12mo": 0.3675992636152873,
+    "expected_ipo_date": null,
+    "founded_date": "2020-01-01T00:00:00",
+    "headquarters": "Palo Alto, CA",
+    "website": "https://anyscale.com"
+  },
+  {
+    "company_id": "543b9cb384d3f3ed",
+    "name": "Weights & Biases",
+    "sector": "AI_Infra",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "AI infrastructure bottleneck - weights & biases focus",
+    "funding_rounds": [
+      {
+        "date": "2024-06-11T00:00:00",
+        "amount": 250000000.0,
+        "lead_investor": "Index",
+        "valuation": 1000000000.0,
+        "round_type": "Series C"
+      }
+    ],
+    "total_funding": 250000000.0,
+    "last_valuation": 1000000000.0,
+    "patent_grants": [],
+    "patent_count": 24,
+    "executive_hires": [],
+    "employee_count": 530,
+    "engineer_pct": 64.09028929464196,
+    "faang_talent_pct": 24.546421288345336,
+    "public_proxies": [],
+    "fortune_500_customers": 125,
+    "estimated_arr": 75000000.0,
+    "ipo_probability_6mo": 0.1564752203025173,
+    "ipo_probability_12mo": 0.2191352709813339,
+    "expected_ipo_date": null,
+    "founded_date": "2020-01-01T00:00:00",
+    "headquarters": "Palo Alto, CA",
+    "website": "https://weights&biases.com"
+  },
+  {
+    "company_id": "78db28b65f7a7b8d",
+    "name": "Fixie.ai",
+    "sector": "AI_Infra",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "AI infrastructure bottleneck - fixie.ai focus",
+    "funding_rounds": [
+      {
+        "date": "2024-07-08T00:00:00",
+        "amount": 17000000.0,
+        "lead_investor": "Lightspeed",
+        "valuation": 80000000.0,
+        "round_type": "Series C"
+      }
+    ],
+    "total_funding": 17000000.0,
+    "last_valuation": 80000000.0,
+    "patent_grants": [],
+    "patent_count": 6,
+    "executive_hires": [],
+    "employee_count": 376,
+    "engineer_pct": 62.14009431926504,
+    "faang_talent_pct": 26.160687294534807,
+    "public_proxies": [],
+    "fortune_500_customers": 8,
+    "estimated_arr": 3000000.0,
+    "ipo_probability_6mo": 0.11627392223740661,
+    "ipo_probability_12mo": 0.31131940630439814,
+    "expected_ipo_date": null,
+    "founded_date": "2019-01-01T00:00:00",
+    "headquarters": "Palo Alto, CA",
+    "website": "https://fixie.ai.com"
+  },
+  {
+    "company_id": "63c34d5ded165a69",
+    "name": "LangChain",
+    "sector": "AI_Infra",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "AI infrastructure bottleneck - langchain focus",
+    "funding_rounds": [
+      {
+        "date": "2024-08-26T00:00:00",
+        "amount": 35000000.0,
+        "lead_investor": "Index",
+        "valuation": 200000000.0,
+        "round_type": "Series D"
+      }
+    ],
+    "total_funding": 35000000.0,
+    "last_valuation": 200000000.0,
+    "patent_grants": [],
+    "patent_count": 16,
+    "executive_hires": [],
+    "employee_count": 440,
+    "engineer_pct": 68.66924890323547,
+    "faang_talent_pct": 42.23019138414172,
+    "public_proxies": [],
+    "fortune_500_customers": 450,
+    "estimated_arr": 12000000.0,
+    "ipo_probability_6mo": 0.1356264841804177,
+    "ipo_probability_12mo": 0.1696375304798552,
+    "expected_ipo_date": null,
+    "founded_date": "2020-01-01T00:00:00",
+    "headquarters": "San Francisco, CA",
+    "website": "https://langchain.com"
+  },
+  {
+    "company_id": "5b5fea64c7467736",
+    "name": "Databricks",
+    "sector": "Data_Infra",
+    "wave_category": "Wave2",
+    "bottleneck_solved": "Unified data analytics and AI platform",
+    "funding_rounds": [
+      {
+        "date": "2023-09-14T00:00:00",
+        "amount": 500000000.0,
+        "lead_investor": "Counter Ventures",
+        "valuation": 43000000000.0,
+        "round_type": "Series I"
+      }
+    ],
+    "total_funding": 4000000000.0,
+    "last_valuation": 43000000000.0,
+    "patent_grants": [
+      {
+        "grant_date": "2024-02-05T00:00:00",
+        "patent_id": "US11567890",
+        "title": "Distributed data lakehouse architecture",
+        "citation_count": 156,
+        "technology_cluster": "Data Infrastructure"
+      }
+    ],
+    "patent_count": 89,
+    "executive_hires": [
+      {
+        "date": "2024-01-15T00:00:00",
+        "role": "Chief Financial Officer",
+        "name": "Dave Conte",
+        "previous_company": "Salesforce",
+        "is_ipo_signal": true
+      }
+    ],
+    "employee_count": 6200,
+    "engineer_pct": 58.0,
+    "faang_talent_pct": 32.0,
+    "public_proxies": [
+      {
+        "ticker": "SNOW",
+        "exposure_type": "Data platform competitor",
+        "correlation_score": 0.74,
+        "revenue_exposure_pct": null
+      }
+    ],
+    "fortune_500_customers": 420,
+    "estimated_arr": 2400000000.0,
+    "ipo_probability_6mo": 0.65,
+    "ipo_probability_12mo": 0.88,
+    "expected_ipo_date": "2026-02-01T00:00:00",
+    "founded_date": "2013-01-01T00:00:00",
+    "headquarters": "San Francisco, CA",
+    "website": "https://databricks.com"
+  },
+  {
+    "company_id": "c2b6940e0dce0352",
+    "name": "Fivetran",
+    "sector": "Data_Infra",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "Automated data pipeline integration",
+    "funding_rounds": [
+      {
+        "date": "2022-10-31T00:00:00",
+        "amount": 240000000.0,
+        "lead_investor": "General Atlantic",
+        "valuation": 5600000000.0,
+        "round_type": "Series D"
+      }
+    ],
+    "total_funding": 678000000.0,
+    "last_valuation": 5600000000.0,
+    "patent_grants": [],
+    "patent_count": 12,
+    "executive_hires": [],
+    "employee_count": 1850,
+    "engineer_pct": 55.0,
+    "faang_talent_pct": 24.0,
+    "public_proxies": [],
+    "fortune_500_customers": 165,
+    "estimated_arr": 450000000.0,
+    "ipo_probability_6mo": 0.42,
+    "ipo_probability_12mo": 0.68,
+    "expected_ipo_date": null,
+    "founded_date": "2012-01-01T00:00:00",
+    "headquarters": "Oakland, CA",
+    "website": "https://fivetran.com"
+  },
+  {
+    "company_id": "3aa869c2e2c100d3",
+    "name": "dbt Labs",
+    "sector": "Data_Infra",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "Data infrastructure - dbt Labs",
+    "funding_rounds": [
+      {
+        "date": "2024-07-05T00:00:00",
+        "amount": 582000000.0,
+        "lead_investor": "Andreessen Horowitz",
+        "valuation": 4200000000.0,
+        "round_type": "Series D"
+      }
+    ],
+    "total_funding": 582000000.0,
+    "last_valuation": 4200000000.0,
+    "patent_grants": [],
+    "patent_count": 10,
+    "executive_hires": [],
+    "employee_count": 1517,
+    "engineer_pct": 50.70022079356222,
+    "faang_talent_pct": 23.29613423164932,
+    "public_proxies": [],
+    "fortune_500_customers": 285,
+    "estimated_arr": 325000000.0,
+    "ipo_probability_6mo": 0.3605333638699352,
+    "ipo_probability_12mo": 0.6236800170951592,
+    "expected_ipo_date": null,
+    "founded_date": "2019-01-01T00:00:00",
+    "headquarters": "San Francisco, CA",
+    "website": "https://dbtlabs.com"
+  },
+  {
+    "company_id": "51c04e881b91a033",
+    "name": "Starburst Data",
+    "sector": "Data_Infra",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "Data infrastructure - Starburst Data",
+    "funding_rounds": [
+      {
+        "date": "2024-06-27T00:00:00",
+        "amount": 414000000.0,
+        "lead_investor": "Sequoia",
+        "valuation": 3350000000.0,
+        "round_type": "Series D"
+      }
+    ],
+    "total_funding": 414000000.0,
+    "last_valuation": 3350000000.0,
+    "patent_grants": [],
+    "patent_count": 11,
+    "executive_hires": [],
+    "employee_count": 452,
+    "engineer_pct": 52.83562408429362,
+    "faang_talent_pct": 24.995577594879343,
+    "public_proxies": [],
+    "fortune_500_customers": 145,
+    "estimated_arr": 175000000.0,
+    "ipo_probability_6mo": 0.21644790528912677,
+    "ipo_probability_12mo": 0.42538623309673107,
+    "expected_ipo_date": null,
+    "founded_date": "2018-01-01T00:00:00",
+    "headquarters": "San Francisco, CA",
+    "website": "https://starburstdata.com"
+  },
+  {
+    "company_id": "dee91ddb90597936",
+    "name": "ClickHouse",
+    "sector": "Data_Infra",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "Data infrastructure - ClickHouse",
+    "funding_rounds": [
+      {
+        "date": "2024-06-09T00:00:00",
+        "amount": 350000000.0,
+        "lead_investor": "Accel",
+        "valuation": 2000000000.0,
+        "round_type": "Series D"
+      }
+    ],
+    "total_funding": 350000000.0,
+    "last_valuation": 2000000000.0,
+    "patent_grants": [],
+    "patent_count": 27,
+    "executive_hires": [],
+    "employee_count": 1895,
+    "engineer_pct": 59.28218553120602,
+    "faang_talent_pct": 28.764582377180844,
+    "public_proxies": [],
+    "fortune_500_customers": 220,
+    "estimated_arr": 95000000.0,
+    "ipo_probability_6mo": 0.15460954161163146,
+    "ipo_probability_12mo": 0.4914528998894885,
+    "expected_ipo_date": null,
+    "founded_date": "2016-01-01T00:00:00",
+    "headquarters": "New York, NY",
+    "website": "https://clickhouse.com"
+  },
+  {
+    "company_id": "6fac51f084877ae7",
+    "name": "Airbyte",
+    "sector": "Data_Infra",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "Data infrastructure - Airbyte",
+    "funding_rounds": [
+      {
+        "date": "2024-07-15T00:00:00",
+        "amount": 181000000.0,
+        "lead_investor": "Andreessen Horowitz",
+        "valuation": 1500000000.0,
+        "round_type": "Series D"
+      }
+    ],
+    "total_funding": 181000000.0,
+    "last_valuation": 1500000000.0,
+    "patent_grants": [],
+    "patent_count": 5,
+    "executive_hires": [],
+    "employee_count": 699,
+    "engineer_pct": 55.77533055074313,
+    "faang_talent_pct": 19.674960277993822,
+    "public_proxies": [],
+    "fortune_500_customers": 180,
+    "estimated_arr": 42000000.0,
+    "ipo_probability_6mo": 0.37672536347088303,
+    "ipo_probability_12mo": 0.5777345409613224,
+    "expected_ipo_date": null,
+    "founded_date": "2018-01-01T00:00:00",
+    "headquarters": "San Francisco, CA",
+    "website": "https://airbyte.com"
+  },
+  {
+    "company_id": "51cfe454e92ea4b5",
+    "name": "Tenstorrent",
+    "sector": "Semiconductors",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "Scalable AI chip architecture with RISC-V cores",
+    "funding_rounds": [
+      {
+        "date": "2024-08-20T00:00:00",
+        "amount": 693000000.0,
+        "lead_investor": "Samsung",
+        "valuation": 2600000000.0,
+        "round_type": "Series D"
+      }
+    ],
+    "total_funding": 1134000000.0,
+    "last_valuation": 2600000000.0,
+    "patent_grants": [
+      {
+        "grant_date": "2024-04-10T00:00:00",
+        "patent_id": "US11678901",
+        "title": "Tensor processing with distributed RISC-V architecture",
+        "citation_count": 34,
+        "technology_cluster": "AI Chip Architecture"
+      }
+    ],
+    "patent_count": 178,
+    "executive_hires": [],
+    "employee_count": 820,
+    "engineer_pct": 76.0,
+    "faang_talent_pct": 38.0,
+    "public_proxies": [
+      {
+        "ticker": "NVDA",
+        "exposure_type": "AI chip competitor",
+        "correlation_score": 0.61,
+        "revenue_exposure_pct": null
+      }
+    ],
+    "fortune_500_customers": 24,
+    "estimated_arr": 65000000.0,
+    "ipo_probability_6mo": 0.18,
+    "ipo_probability_12mo": 0.42,
+    "expected_ipo_date": null,
+    "founded_date": "2016-01-01T00:00:00",
+    "headquarters": "Toronto, Canada",
+    "website": "https://tenstorrent.com"
+  },
+  {
+    "company_id": "cd385b10800d85d7",
+    "name": "SiFive",
+    "sector": "Semiconductors",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "Specialized chip architecture - SiFive",
+    "funding_rounds": [
+      {
+        "date": "2024-03-23T00:00:00",
+        "amount": 680000000.0,
+        "lead_investor": "Qualcomm Ventures",
+        "valuation": 2500000000.0,
+        "round_type": "Series C"
+      }
+    ],
+    "total_funding": 680000000.0,
+    "last_valuation": 2500000000.0,
+    "patent_grants": [
+      {
+        "grant_date": "2024-07-27T00:00:00",
+        "patent_id": "US11629990",
+        "title": "SiFive chip architecture patent",
+        "citation_count": 57,
+        "technology_cluster": "AI Chips"
+      }
+    ],
+    "patent_count": 245,
+    "executive_hires": [],
+    "employee_count": 200,
+    "engineer_pct": 77.7168654607459,
+    "faang_talent_pct": 44.74749240815194,
+    "public_proxies": [],
+    "fortune_500_customers": 45,
+    "estimated_arr": 120000000.0,
+    "ipo_probability_6mo": 0.20510023527984583,
+    "ipo_probability_12mo": 0.45437795981561857,
+    "expected_ipo_date": null,
+    "founded_date": "2020-01-01T00:00:00",
+    "headquarters": "San Jose, CA",
+    "website": "https://sifive.com"
+  },
+  {
+    "company_id": "660e336731b30edf",
+    "name": "Esperanto Technologies",
+    "sector": "Semiconductors",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "Specialized chip architecture - Esperanto Technologies",
+    "funding_rounds": [
+      {
+        "date": "2024-06-10T00:00:00",
+        "amount": 258000000.0,
+        "lead_investor": "Intel Capital",
+        "valuation": 800000000.0,
+        "round_type": "Series D"
+      }
+    ],
+    "total_funding": 258000000.0,
+    "last_valuation": 800000000.0,
+    "patent_grants": [
+      {
+        "grant_date": "2024-01-10T00:00:00",
+        "patent_id": "US11698756",
+        "title": "Esperanto Technologies chip architecture patent",
+        "citation_count": 23,
+        "technology_cluster": "AI Chips"
+      }
+    ],
+    "patent_count": 89,
+    "executive_hires": [],
+    "employee_count": 805,
+    "engineer_pct": 75.44490510542064,
+    "faang_talent_pct": 29.701284774678857,
+    "public_proxies": [],
+    "fortune_500_customers": 18,
+    "estimated_arr": 38000000.0,
+    "ipo_probability_6mo": 0.11533558597017735,
+    "ipo_probability_12mo": 0.3719539775622841,
+    "expected_ipo_date": null,
+    "founded_date": "2020-01-01T00:00:00",
+    "headquarters": "San Jose, CA",
+    "website": "https://esperantotechnologies.com"
+  },
+  {
+    "company_id": "9b6018c87e2e27ea",
+    "name": "Graphcore",
+    "sector": "Semiconductors",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "Specialized chip architecture - Graphcore",
+    "funding_rounds": [
+      {
+        "date": "2024-07-11T00:00:00",
+        "amount": 710000000.0,
+        "lead_investor": "Qualcomm Ventures",
+        "valuation": 2770000000.0,
+        "round_type": "Series C"
+      }
+    ],
+    "total_funding": 710000000.0,
+    "last_valuation": 2770000000.0,
+    "patent_grants": [
+      {
+        "grant_date": "2024-04-26T00:00:00",
+        "patent_id": "US11629890",
+        "title": "Graphcore chip architecture patent",
+        "citation_count": 44,
+        "technology_cluster": "AI Chips"
+      }
+    ],
+    "patent_count": 156,
+    "executive_hires": [],
+    "employee_count": 505,
+    "engineer_pct": 83.97705629177854,
+    "faang_talent_pct": 27.66833334150406,
+    "public_proxies": [],
+    "fortune_500_customers": 32,
+    "estimated_arr": 85000000.0,
+    "ipo_probability_6mo": 0.18515622842649632,
+    "ipo_probability_12mo": 0.3433388301029603,
+    "expected_ipo_date": null,
+    "founded_date": "2015-01-01T00:00:00",
+    "headquarters": "San Jose, CA",
+    "website": "https://graphcore.com"
+  },
+  {
+    "company_id": "89b27c8429180c6b",
+    "name": "Mythic AI",
+    "sector": "Semiconductors",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "Specialized chip architecture - Mythic AI",
+    "funding_rounds": [
+      {
+        "date": "2024-09-27T00:00:00",
+        "amount": 165000000.0,
+        "lead_investor": "Qualcomm Ventures",
+        "valuation": 450000000.0,
+        "round_type": "Series C"
+      }
+    ],
+    "total_funding": 165000000.0,
+    "last_valuation": 450000000.0,
+    "patent_grants": [
+      {
+        "grant_date": "2024-09-04T00:00:00",
+        "patent_id": "US11642723",
+        "title": "Mythic AI chip architecture patent",
+        "citation_count": 48,
+        "technology_cluster": "AI Chips"
+      }
+    ],
+    "patent_count": 67,
+    "executive_hires": [],
+    "employee_count": 830,
+    "engineer_pct": 74.65677818443483,
+    "faang_talent_pct": 42.40677299000771,
+    "public_proxies": [],
+    "fortune_500_customers": 12,
+    "estimated_arr": 15000000.0,
+    "ipo_probability_6mo": 0.22363284504390324,
+    "ipo_probability_12mo": 0.39168581999940966,
+    "expected_ipo_date": null,
+    "founded_date": "2015-01-01T00:00:00",
+    "headquarters": "Santa Clara, CA",
+    "website": "https://mythicai.com"
+  },
+  {
+    "company_id": "419d28049186ad45",
+    "name": "Untether AI",
+    "sector": "Semiconductors",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "Specialized chip architecture - Untether AI",
+    "funding_rounds": [
+      {
+        "date": "2024-01-12T00:00:00",
+        "amount": 125000000.0,
+        "lead_investor": "Intel Capital",
+        "valuation": 350000000.0,
+        "round_type": "Series D"
+      }
+    ],
+    "total_funding": 125000000.0,
+    "last_valuation": 350000000.0,
+    "patent_grants": [
+      {
+        "grant_date": "2024-01-08T00:00:00",
+        "patent_id": "US11643533",
+        "title": "Untether AI chip architecture patent",
+        "citation_count": 76,
+        "technology_cluster": "AI Chips"
+      }
+    ],
+    "patent_count": 42,
+    "executive_hires": [],
+    "employee_count": 350,
+    "engineer_pct": 71.89680173936925,
+    "faang_talent_pct": 43.56591150768513,
+    "public_proxies": [],
+    "fortune_500_customers": 8,
+    "estimated_arr": 8000000.0,
+    "ipo_probability_6mo": 0.1518889495880163,
+    "ipo_probability_12mo": 0.2057160465256415,
+    "expected_ipo_date": null,
+    "founded_date": "2018-01-01T00:00:00",
+    "headquarters": "San Jose, CA",
+    "website": "https://untetherai.com"
+  },
+  {
+    "company_id": "740fa1f3ae2b152a",
+    "name": "Rain AI",
+    "sector": "Semiconductors",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "Specialized chip architecture - Rain AI",
+    "funding_rounds": [
+      {
+        "date": "2024-03-18T00:00:00",
+        "amount": 33000000.0,
+        "lead_investor": "Intel Capital",
+        "valuation": 150000000.0,
+        "round_type": "Series D"
+      }
+    ],
+    "total_funding": 33000000.0,
+    "last_valuation": 150000000.0,
+    "patent_grants": [
+      {
+        "grant_date": "2024-05-01T00:00:00",
+        "patent_id": "US11679184",
+        "title": "Rain AI chip architecture patent",
+        "citation_count": 51,
+        "technology_cluster": "AI Chips"
+      }
+    ],
+    "patent_count": 18,
+    "executive_hires": [],
+    "employee_count": 810,
+    "engineer_pct": 75.92388125379726,
+    "faang_talent_pct": 37.26066721494091,
+    "public_proxies": [],
+    "fortune_500_customers": 4,
+    "estimated_arr": 2000000.0,
+    "ipo_probability_6mo": 0.11643130656210089,
+    "ipo_probability_12mo": 0.4335225302865582,
+    "expected_ipo_date": null,
+    "founded_date": "2017-01-01T00:00:00",
+    "headquarters": "Austin, TX",
+    "website": "https://rainai.com"
+  },
+  {
+    "company_id": "3af55534171d7602",
+    "name": "Wiz",
+    "sector": "Cybersecurity",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "Cloud security posture management at scale",
+    "funding_rounds": [
+      {
+        "date": "2024-05-07T00:00:00",
+        "amount": 1000000000.0,
+        "lead_investor": "Andreessen Horowitz",
+        "valuation": 12000000000.0,
+        "round_type": "Series E"
+      }
+    ],
+    "total_funding": 1900000000.0,
+    "last_valuation": 12000000000.0,
+    "patent_grants": [],
+    "patent_count": 23,
+    "executive_hires": [
+      {
+        "date": "2024-09-01T00:00:00",
+        "role": "Chief Financial Officer",
+        "name": "Dali Rajic",
+        "previous_company": "MongoDB",
+        "is_ipo_signal": true
+      }
+    ],
+    "employee_count": 1400,
+    "engineer_pct": 62.0,
+    "faang_talent_pct": 34.0,
+    "public_proxies": [
+      {
+        "ticker": "PANW",
+        "exposure_type": "Cloud security competitor",
+        "correlation_score": 0.68,
+        "revenue_exposure_pct": null
+      }
+    ],
+    "fortune_500_customers": 320,
+    "estimated_arr": 650000000.0,
+    "ipo_probability_6mo": 0.58,
+    "ipo_probability_12mo": 0.82,
+    "expected_ipo_date": "2026-03-15T00:00:00",
+    "founded_date": "2020-01-01T00:00:00",
+    "headquarters": "New York, NY",
+    "website": "https://wiz.io"
+  },
+  {
+    "company_id": "8f1bec7517e75c60",
+    "name": "Rubrik",
+    "sector": "Cybersecurity",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "Security bottleneck - Rubrik",
+    "funding_rounds": [
+      {
+        "date": "2024-08-21T00:00:00",
+        "amount": 752000000.0,
+        "lead_investor": "Accel",
+        "valuation": 4000000000.0,
+        "round_type": "Series E"
+      }
+    ],
+    "total_funding": 752000000.0,
+    "last_valuation": 4000000000.0,
+    "patent_grants": [],
+    "patent_count": 10,
+    "executive_hires": [],
+    "employee_count": 1792,
+    "engineer_pct": 67.79351980952273,
+    "faang_talent_pct": 22.15419259092853,
+    "public_proxies": [],
+    "fortune_500_customers": 245,
+    "estimated_arr": 520000000.0,
+    "ipo_probability_6mo": 0.3742875529937421,
+    "ipo_probability_12mo": 0.7319246466017792,
+    "expected_ipo_date": null,
+    "founded_date": "2017-01-01T00:00:00",
+    "headquarters": "Boston, MA",
+    "website": "https://rubrik.com"
+  },
+  {
+    "company_id": "4a9e4a5e58be4df9",
+    "name": "1Password",
+    "sector": "Cybersecurity",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "Security bottleneck - 1Password",
+    "funding_rounds": [
+      {
+        "date": "2024-01-15T00:00:00",
+        "amount": 920000000.0,
+        "lead_investor": "Sequoia",
+        "valuation": 6800000000.0,
+        "round_type": "Series E"
+      }
+    ],
+    "total_funding": 920000000.0,
+    "last_valuation": 6800000000.0,
+    "patent_grants": [],
+    "patent_count": 37,
+    "executive_hires": [],
+    "employee_count": 1805,
+    "engineer_pct": 56.52581071368382,
+    "faang_talent_pct": 33.50526665480661,
+    "public_proxies": [],
+    "fortune_500_customers": 150000,
+    "estimated_arr": 425000000.0,
+    "ipo_probability_6mo": 0.3972404529591636,
+    "ipo_probability_12mo": 0.7394952414952017,
+    "expected_ipo_date": null,
+    "founded_date": "2016-01-01T00:00:00",
+    "headquarters": "Boston, MA",
+    "website": "https://1password.com"
+  },
+  {
+    "company_id": "82abb9bef725a1a1",
+    "name": "Transmit Security",
+    "sector": "Cybersecurity",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "Security bottleneck - Transmit Security",
+    "funding_rounds": [
+      {
+        "date": "2024-06-24T00:00:00",
+        "amount": 643000000.0,
+        "lead_investor": "Accel",
+        "valuation": 2700000000.0,
+        "round_type": "Series E"
+      }
+    ],
+    "total_funding": 643000000.0,
+    "last_valuation": 2700000000.0,
+    "patent_grants": [],
+    "patent_count": 39,
+    "executive_hires": [],
+    "employee_count": 1119,
+    "engineer_pct": 66.81855972621776,
+    "faang_talent_pct": 29.780766129045134,
+    "public_proxies": [],
+    "fortune_500_customers": 85,
+    "estimated_arr": 145000000.0,
+    "ipo_probability_6mo": 0.44166675922766074,
+    "ipo_probability_12mo": 0.7618004130306377,
+    "expected_ipo_date": null,
+    "founded_date": "2017-01-01T00:00:00",
+    "headquarters": "Tel Aviv, Israel",
+    "website": "https://transmitsecurity.com"
+  },
+  {
+    "company_id": "a77a116940784991",
+    "name": "Lacework",
+    "sector": "Cybersecurity",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "Security bottleneck - Lacework",
+    "funding_rounds": [
+      {
+        "date": "2024-07-03T00:00:00",
+        "amount": 1800000000.0,
+        "lead_investor": "Insight Partners",
+        "valuation": 8300000000.0,
+        "round_type": "Series E"
+      }
+    ],
+    "total_funding": 1800000000.0,
+    "last_valuation": 8300000000.0,
+    "patent_grants": [],
+    "patent_count": 30,
+    "executive_hires": [],
+    "employee_count": 1354,
+    "engineer_pct": 56.65883207171246,
+    "faang_talent_pct": 36.04934427976326,
+    "public_proxies": [],
+    "fortune_500_customers": 165,
+    "estimated_arr": 285000000.0,
+    "ipo_probability_6mo": 0.31675671078760914,
+    "ipo_probability_12mo": 0.4510403194430051,
+    "expected_ipo_date": null,
+    "founded_date": "2019-01-01T00:00:00",
+    "headquarters": "Boston, MA",
+    "website": "https://lacework.com"
+  },
+  {
+    "company_id": "d5ad44951723e51d",
+    "name": "Snyk",
+    "sector": "Cybersecurity",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "Security bottleneck - Snyk",
+    "funding_rounds": [
+      {
+        "date": "2024-06-24T00:00:00",
+        "amount": 1010000000.0,
+        "lead_investor": "Insight Partners",
+        "valuation": 8500000000.0,
+        "round_type": "Series E"
+      }
+    ],
+    "total_funding": 1010000000.0,
+    "last_valuation": 8500000000.0,
+    "patent_grants": [],
+    "patent_count": 23,
+    "executive_hires": [],
+    "employee_count": 1303,
+    "engineer_pct": 58.877648172306685,
+    "faang_talent_pct": 30.581842176754087,
+    "public_proxies": [],
+    "fortune_500_customers": 2400,
+    "estimated_arr": 380000000.0,
+    "ipo_probability_6mo": 0.3289826655609375,
+    "ipo_probability_12mo": 0.7494888594989011,
+    "expected_ipo_date": null,
+    "founded_date": "2017-01-01T00:00:00",
+    "headquarters": "Tel Aviv, Israel",
+    "website": "https://snyk.com"
+  },
+  {
+    "company_id": "0f835b2d04ce071f",
+    "name": "IonQ",
+    "sector": "Quantum",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "Quantum computing scalability - IonQ",
+    "funding_rounds": [
+      {
+        "date": "2024-02-01T00:00:00",
+        "amount": 650000000.0,
+        "lead_investor": "Baillie Gifford",
+        "valuation": 2000000000.0,
+        "round_type": "Series D"
+      }
+    ],
+    "total_funding": 650000000.0,
+    "last_valuation": 2000000000.0,
+    "patent_grants": [
+      {
+        "grant_date": "2024-09-03T00:00:00",
+        "patent_id": "US11717088",
+        "title": "IonQ quantum architecture",
+        "citation_count": 71,
+        "technology_cluster": "Quantum Computing"
+      }
+    ],
+    "patent_count": 142,
+    "executive_hires": [],
+    "employee_count": 198,
+    "engineer_pct": 77.55554483930645,
+    "faang_talent_pct": 39.16188012316114,
+    "public_proxies": [],
+    "fortune_500_customers": 14,
+    "estimated_arr": 28000000.0,
+    "ipo_probability_6mo": 0.05842388441615457,
+    "ipo_probability_12mo": 0.38466939487715035,
+    "expected_ipo_date": null,
+    "founded_date": "2018-01-01T00:00:00",
+    "headquarters": "Boston, MA",
+    "website": "https://ionq.com"
+  },
+  {
+    "company_id": "5477181c3bf0752f",
+    "name": "Rigetti Computing",
+    "sector": "Quantum",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "Quantum computing scalability - Rigetti Computing",
+    "funding_rounds": [
+      {
+        "date": "2024-01-28T00:00:00",
+        "amount": 320000000.0,
+        "lead_investor": "Baillie Gifford",
+        "valuation": 1500000000.0,
+        "round_type": "Series C"
+      }
+    ],
+    "total_funding": 320000000.0,
+    "last_valuation": 1500000000.0,
+    "patent_grants": [
+      {
+        "grant_date": "2024-02-16T00:00:00",
+        "patent_id": "US11732057",
+        "title": "Rigetti Computing quantum architecture",
+        "citation_count": 108,
+        "technology_cluster": "Quantum Computing"
+      }
+    ],
+    "patent_count": 98,
+    "executive_hires": [],
+    "employee_count": 446,
+    "engineer_pct": 76.01954605110794,
+    "faang_talent_pct": 46.11995959560029,
+    "public_proxies": [],
+    "fortune_500_customers": 9,
+    "estimated_arr": 18000000.0,
+    "ipo_probability_6mo": 0.0543333944400273,
+    "ipo_probability_12mo": 0.34811087939824015,
+    "expected_ipo_date": null,
+    "founded_date": "2016-01-01T00:00:00",
+    "headquarters": "Palo Alto, CA",
+    "website": "https://rigetti.com"
+  },
+  {
+    "company_id": "9c9aeeb78971ca1c",
+    "name": "PsiQuantum",
+    "sector": "Quantum",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "Quantum computing scalability - PsiQuantum",
+    "funding_rounds": [
+      {
+        "date": "2024-08-19T00:00:00",
+        "amount": 665000000.0,
+        "lead_investor": "DCVC",
+        "valuation": 3150000000.0,
+        "round_type": "Series D"
+      }
+    ],
+    "total_funding": 665000000.0,
+    "last_valuation": 3150000000.0,
+    "patent_grants": [
+      {
+        "grant_date": "2024-06-13T00:00:00",
+        "patent_id": "US11723116",
+        "title": "PsiQuantum quantum architecture",
+        "citation_count": 22,
+        "technology_cluster": "Quantum Computing"
+      }
+    ],
+    "patent_count": 215,
+    "executive_hires": [],
+    "employee_count": 382,
+    "engineer_pct": 80.42669164162201,
+    "faang_talent_pct": 35.2872818641681,
+    "public_proxies": [],
+    "fortune_500_customers": 0,
+    "estimated_arr": 0.0,
+    "ipo_probability_6mo": 0.21538618700201934,
+    "ipo_probability_12mo": 0.2978406618154764,
+    "expected_ipo_date": null,
+    "founded_date": "2018-01-01T00:00:00",
+    "headquarters": "Berkeley, CA",
+    "website": "https://psiquantum.com"
+  },
+  {
+    "company_id": "767fa42560099519",
+    "name": "Atom Computing",
+    "sector": "Quantum",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "Quantum computing scalability - Atom Computing",
+    "funding_rounds": [
+      {
+        "date": "2024-03-09T00:00:00",
+        "amount": 198000000.0,
+        "lead_investor": "Baillie Gifford",
+        "valuation": 850000000.0,
+        "round_type": "Series D"
+      }
+    ],
+    "total_funding": 198000000.0,
+    "last_valuation": 850000000.0,
+    "patent_grants": [
+      {
+        "grant_date": "2024-06-27T00:00:00",
+        "patent_id": "US11796149",
+        "title": "Atom Computing quantum architecture",
+        "citation_count": 104,
+        "technology_cluster": "Quantum Computing"
+      }
+    ],
+    "patent_count": 67,
+    "executive_hires": [],
+    "employee_count": 410,
+    "engineer_pct": 75.45511818068742,
+    "faang_talent_pct": 33.798643328528456,
+    "public_proxies": [],
+    "fortune_500_customers": 6,
+    "estimated_arr": 8000000.0,
+    "ipo_probability_6mo": 0.09860572998614418,
+    "ipo_probability_12mo": 0.2109670460256306,
+    "expected_ipo_date": null,
+    "founded_date": "2018-01-01T00:00:00",
+    "headquarters": "Palo Alto, CA",
+    "website": "https://atom.com"
+  },
+  {
+    "company_id": "cf9f394bb7801709",
+    "name": "QuEra Computing",
+    "sector": "Quantum",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "Quantum computing scalability - QuEra Computing",
+    "funding_rounds": [
+      {
+        "date": "2024-09-17T00:00:00",
+        "amount": 42000000.0,
+        "lead_investor": "Baillie Gifford",
+        "valuation": 180000000.0,
+        "round_type": "Series D"
+      }
+    ],
+    "total_funding": 42000000.0,
+    "last_valuation": 180000000.0,
+    "patent_grants": [
+      {
+        "grant_date": "2024-05-17T00:00:00",
+        "patent_id": "US11765417",
+        "title": "QuEra Computing quantum architecture",
+        "citation_count": 27,
+        "technology_cluster": "Quantum Computing"
+      }
+    ],
+    "patent_count": 34,
+    "executive_hires": [],
+    "employee_count": 423,
+    "engineer_pct": 80.25028334221486,
+    "faang_talent_pct": 44.12854570550843,
+    "public_proxies": [],
+    "fortune_500_customers": 5,
+    "estimated_arr": 3000000.0,
+    "ipo_probability_6mo": 0.09394130891079627,
+    "ipo_probability_12mo": 0.3546149401858134,
+    "expected_ipo_date": null,
+    "founded_date": "2019-01-01T00:00:00",
+    "headquarters": "Boston, MA",
+    "website": "https://quera.com"
+  },
+  {
+    "company_id": "87dc6d9ad459c4c9",
+    "name": "AST SpaceMobile",
+    "sector": "6G",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "Satellite connectivity - AST SpaceMobile",
+    "funding_rounds": [
+      {
+        "date": "2024-03-20T00:00:00",
+        "amount": 850000000.0,
+        "lead_investor": "Rakuten",
+        "valuation": 2900000000.0,
+        "round_type": "Series C"
+      }
+    ],
+    "total_funding": 850000000.0,
+    "last_valuation": 2900000000.0,
+    "patent_grants": [
+      {
+        "grant_date": "2024-03-03T00:00:00",
+        "patent_id": "US11821169",
+        "title": "AST SpaceMobile satellite network architecture",
+        "citation_count": 46,
+        "technology_cluster": "Satellite Communications"
+      }
+    ],
+    "patent_count": 245,
+    "executive_hires": [],
+    "employee_count": 318,
+    "engineer_pct": 75.1614328453045,
+    "faang_talent_pct": 18.94554616921992,
+    "public_proxies": [],
+    "fortune_500_customers": 8,
+    "estimated_arr": 15000000.0,
+    "ipo_probability_6mo": 0.21825172939148269,
+    "ipo_probability_12mo": 0.39041866029786787,
+    "expected_ipo_date": null,
+    "founded_date": "2018-01-01T00:00:00",
+    "headquarters": "Virginia",
+    "website": "https://astspacemobile.com"
+  },
+  {
+    "company_id": "d55215d6f5e361fb",
+    "name": "Lynk Global",
+    "sector": "6G",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "Satellite connectivity - Lynk Global",
+    "funding_rounds": [
+      {
+        "date": "2024-01-28T00:00:00",
+        "amount": 95000000.0,
+        "lead_investor": "AT&T",
+        "valuation": 380000000.0,
+        "round_type": "Series C"
+      }
+    ],
+    "total_funding": 95000000.0,
+    "last_valuation": 380000000.0,
+    "patent_grants": [
+      {
+        "grant_date": "2024-02-01T00:00:00",
+        "patent_id": "US11881324",
+        "title": "Lynk Global satellite network architecture",
+        "citation_count": 80,
+        "technology_cluster": "Satellite Communications"
+      }
+    ],
+    "patent_count": 178,
+    "executive_hires": [],
+    "employee_count": 254,
+    "engineer_pct": 68.94172741097428,
+    "faang_talent_pct": 21.70161015596458,
+    "public_proxies": [],
+    "fortune_500_customers": 6,
+    "estimated_arr": 4000000.0,
+    "ipo_probability_6mo": 0.11723182029846349,
+    "ipo_probability_12mo": 0.40598644354721125,
+    "expected_ipo_date": null,
+    "founded_date": "2018-01-01T00:00:00",
+    "headquarters": "Virginia",
+    "website": "https://lynkglobal.com"
+  },
+  {
+    "company_id": "56c851e36adeae5b",
+    "name": "E-Space",
+    "sector": "6G",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "Satellite connectivity - E-Space",
+    "funding_rounds": [
+      {
+        "date": "2024-05-25T00:00:00",
+        "amount": 142000000.0,
+        "lead_investor": "Rakuten",
+        "valuation": 650000000.0,
+        "round_type": "Series C"
+      }
+    ],
+    "total_funding": 142000000.0,
+    "last_valuation": 650000000.0,
+    "patent_grants": [
+      {
+        "grant_date": "2024-05-27T00:00:00",
+        "patent_id": "US11880460",
+        "title": "E-Space satellite network architecture",
+        "citation_count": 26,
+        "technology_cluster": "Satellite Communications"
+      }
+    ],
+    "patent_count": 89,
+    "executive_hires": [],
+    "employee_count": 575,
+    "engineer_pct": 73.5601608065924,
+    "faang_talent_pct": 22.554340439541193,
+    "public_proxies": [],
+    "fortune_500_customers": 0,
+    "estimated_arr": 0.0,
+    "ipo_probability_6mo": 0.09663632300468253,
+    "ipo_probability_12mo": 0.1870850924024971,
+    "expected_ipo_date": null,
+    "founded_date": "2018-01-01T00:00:00",
+    "headquarters": "London, UK",
+    "website": "https://e-space.com"
+  },
+  {
+    "company_id": "58c6ecfa23c241d7",
+    "name": "Rivada Space Networks",
+    "sector": "6G",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "Satellite connectivity - Rivada Space Networks",
+    "funding_rounds": [
+      {
+        "date": "2024-09-24T00:00:00",
+        "amount": 2400000000.0,
+        "lead_investor": "Vodafone",
+        "valuation": 5000000000.0,
+        "round_type": "Series B"
+      }
+    ],
+    "total_funding": 2400000000.0,
+    "last_valuation": 5000000000.0,
+    "patent_grants": [
+      {
+        "grant_date": "2024-04-02T00:00:00",
+        "patent_id": "US11855391",
+        "title": "Rivada Space Networks satellite network architecture",
+        "citation_count": 40,
+        "technology_cluster": "Satellite Communications"
+      }
+    ],
+    "patent_count": 67,
+    "executive_hires": [],
+    "employee_count": 541,
+    "engineer_pct": 71.05890038344153,
+    "faang_talent_pct": 23.273184908353826,
+    "public_proxies": [],
+    "fortune_500_customers": 0,
+    "estimated_arr": 0.0,
+    "ipo_probability_6mo": 0.24376870633234132,
+    "ipo_probability_12mo": 0.3281447576202784,
+    "expected_ipo_date": null,
+    "founded_date": "2020-01-01T00:00:00",
+    "headquarters": "London, UK",
+    "website": "https://rivadaspacenetworks.com"
+  },
+  {
+    "company_id": "a450bdf8daaba16d",
+    "name": "Omnispace",
+    "sector": "6G",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "Satellite connectivity - Omnispace",
+    "funding_rounds": [
+      {
+        "date": "2024-05-15T00:00:00",
+        "amount": 89000000.0,
+        "lead_investor": "Rakuten",
+        "valuation": 320000000.0,
+        "round_type": "Series B"
+      }
+    ],
+    "total_funding": 89000000.0,
+    "last_valuation": 320000000.0,
+    "patent_grants": [
+      {
+        "grant_date": "2024-04-25T00:00:00",
+        "patent_id": "US11892271",
+        "title": "Omnispace satellite network architecture",
+        "citation_count": 87,
+        "technology_cluster": "Satellite Communications"
+      }
+    ],
+    "patent_count": 124,
+    "executive_hires": [],
+    "employee_count": 254,
+    "engineer_pct": 74.82124537952978,
+    "faang_talent_pct": 19.663105378939633,
+    "public_proxies": [],
+    "fortune_500_customers": 4,
+    "estimated_arr": 5000000.0,
+    "ipo_probability_6mo": 0.23375675809456875,
+    "ipo_probability_12mo": 0.3372474176694181,
+    "expected_ipo_date": null,
+    "founded_date": "2019-01-01T00:00:00",
+    "headquarters": "Virginia",
+    "website": "https://omnispace.com"
+  },
+  {
+    "company_id": "7f25fdadc7593b8d",
+    "name": "Form Energy",
+    "sector": "Green_Energy",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "Green energy storage/production - Form Energy",
+    "funding_rounds": [
+      {
+        "date": "2024-03-11T00:00:00",
+        "amount": 829000000.0,
+        "lead_investor": "Breakthrough Energy",
+        "valuation": 1200000000.0,
+        "round_type": "Series D"
+      }
+    ],
+    "total_funding": 829000000.0,
+    "last_valuation": 1200000000.0,
+    "patent_grants": [
+      {
+        "grant_date": "2024-06-09T00:00:00",
+        "patent_id": "US11975753",
+        "title": "Form Energy energy technology",
+        "citation_count": 32,
+        "technology_cluster": "Energy Storage"
+      }
+    ],
+    "patent_count": 156,
+    "executive_hires": [],
+    "employee_count": 490,
+    "engineer_pct": 66.57451853666262,
+    "faang_talent_pct": 19.44509722795904,
+    "public_proxies": [],
+    "fortune_500_customers": 5,
+    "estimated_arr": 0.0,
+    "ipo_probability_6mo": 0.1017331192058022,
+    "ipo_probability_12mo": 0.21216764070848498,
+    "expected_ipo_date": null,
+    "founded_date": "2018-01-01T00:00:00",
+    "headquarters": "California",
+    "website": "https://formenergy.com"
+  },
+  {
+    "company_id": "bdfa2dcf3e5dfd58",
+    "name": "Antora Energy",
+    "sector": "Green_Energy",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "Green energy storage/production - Antora Energy",
+    "funding_rounds": [
+      {
+        "date": "2024-04-17T00:00:00",
+        "amount": 150000000.0,
+        "lead_investor": "Temasek",
+        "valuation": 500000000.0,
+        "round_type": "Series C"
+      }
+    ],
+    "total_funding": 150000000.0,
+    "last_valuation": 500000000.0,
+    "patent_grants": [
+      {
+        "grant_date": "2024-07-20T00:00:00",
+        "patent_id": "US11985772",
+        "title": "Antora Energy energy technology",
+        "citation_count": 60,
+        "technology_cluster": "Energy Storage"
+      }
+    ],
+    "patent_count": 78,
+    "executive_hires": [],
+    "employee_count": 408,
+    "engineer_pct": 70.34022976799794,
+    "faang_talent_pct": 15.462733619359062,
+    "public_proxies": [],
+    "fortune_500_customers": 3,
+    "estimated_arr": 0.0,
+    "ipo_probability_6mo": 0.13629867013322888,
+    "ipo_probability_12mo": 0.29917380258815107,
+    "expected_ipo_date": null,
+    "founded_date": "2017-01-01T00:00:00",
+    "headquarters": "Sweden",
+    "website": "https://antoraenergy.com"
+  },
+  {
+    "company_id": "b9e0b590c2192611",
+    "name": "Twelve",
+    "sector": "Green_Energy",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "Green energy storage/production - Twelve",
+    "funding_rounds": [
+      {
+        "date": "2024-09-07T00:00:00",
+        "amount": 645000000.0,
+        "lead_investor": "Temasek",
+        "valuation": 1400000000.0,
+        "round_type": "Series D"
+      }
+    ],
+    "total_funding": 645000000.0,
+    "last_valuation": 1400000000.0,
+    "patent_grants": [
+      {
+        "grant_date": "2024-08-13T00:00:00",
+        "patent_id": "US11929350",
+        "title": "Twelve energy technology",
+        "citation_count": 43,
+        "technology_cluster": "Energy Storage"
+      }
+    ],
+    "patent_count": 234,
+    "executive_hires": [],
+    "employee_count": 186,
+    "engineer_pct": 61.658642590091645,
+    "faang_talent_pct": 18.0318647066458,
+    "public_proxies": [],
+    "fortune_500_customers": 12,
+    "estimated_arr": 18000000.0,
+    "ipo_probability_6mo": 0.1920735030505087,
+    "ipo_probability_12mo": 0.304378216717188,
+    "expected_ipo_date": null,
+    "founded_date": "2019-01-01T00:00:00",
+    "headquarters": "California",
+    "website": "https://twelve.com"
+  },
+  {
+    "company_id": "8f078c35abdfcb49",
+    "name": "ESS Inc",
+    "sector": "Green_Energy",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "Green energy storage/production - ESS Inc",
+    "funding_rounds": [
+      {
+        "date": "2024-06-12T00:00:00",
+        "amount": 320000000.0,
+        "lead_investor": "Temasek",
+        "valuation": 850000000.0,
+        "round_type": "Series C"
+      }
+    ],
+    "total_funding": 320000000.0,
+    "last_valuation": 850000000.0,
+    "patent_grants": [
+      {
+        "grant_date": "2024-07-03T00:00:00",
+        "patent_id": "US11977299",
+        "title": "ESS Inc energy technology",
+        "citation_count": 54,
+        "technology_cluster": "Energy Storage"
+      }
+    ],
+    "patent_count": 89,
+    "executive_hires": [],
+    "employee_count": 224,
+    "engineer_pct": 64.20831048117056,
+    "faang_talent_pct": 19.558583003585802,
+    "public_proxies": [],
+    "fortune_500_customers": 18,
+    "estimated_arr": 42000000.0,
+    "ipo_probability_6mo": 0.19753309918730566,
+    "ipo_probability_12mo": 0.24348589923102523,
+    "expected_ipo_date": null,
+    "founded_date": "2019-01-01T00:00:00",
+    "headquarters": "Massachusetts",
+    "website": "https://essinc.com"
+  },
+  {
+    "company_id": "0e7e129bcfe53ba6",
+    "name": "H2 Green Steel",
+    "sector": "Green_Energy",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "Green energy storage/production - H2 Green Steel",
+    "funding_rounds": [
+      {
+        "date": "2024-02-21T00:00:00",
+        "amount": 350000000.0,
+        "lead_investor": "Temasek",
+        "valuation": 1100000000.0,
+        "round_type": "Series C"
+      }
+    ],
+    "total_funding": 350000000.0,
+    "last_valuation": 1100000000.0,
+    "patent_grants": [
+      {
+        "grant_date": "2024-06-20T00:00:00",
+        "patent_id": "US11980716",
+        "title": "H2 Green Steel energy technology",
+        "citation_count": 45,
+        "technology_cluster": "Energy Storage"
+      }
+    ],
+    "patent_count": 45,
+    "executive_hires": [],
+    "employee_count": 276,
+    "engineer_pct": 66.1667594662162,
+    "faang_talent_pct": 17.925407225934215,
+    "public_proxies": [],
+    "fortune_500_customers": 0,
+    "estimated_arr": 0.0,
+    "ipo_probability_6mo": 0.10486357954805484,
+    "ipo_probability_12mo": 0.2824048272655344,
+    "expected_ipo_date": null,
+    "founded_date": "2020-01-01T00:00:00",
+    "headquarters": "California",
+    "website": "https://h2greensteel.com"
+  },
+  {
+    "company_id": "51a5545d67a9c135",
+    "name": "Recursion Pharmaceuticals",
+    "sector": "Biotech_Infra",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "Biotech infrastructure - Recursion Pharmaceuticals",
+    "funding_rounds": [
+      {
+        "date": "2024-03-27T00:00:00",
+        "amount": 880000000.0,
+        "lead_investor": "Flagship Pioneering",
+        "valuation": 2200000000.0,
+        "round_type": "Series D"
+      }
+    ],
+    "total_funding": 880000000.0,
+    "last_valuation": 2200000000.0,
+    "patent_grants": [],
+    "patent_count": 40,
+    "executive_hires": [],
+    "employee_count": 1171,
+    "engineer_pct": 47.21866378706013,
+    "faang_talent_pct": 24.24984485709038,
+    "public_proxies": [],
+    "fortune_500_customers": 12,
+    "estimated_arr": 45000000.0,
+    "ipo_probability_6mo": 0.3237938256576866,
+    "ipo_probability_12mo": 0.2813030399670783,
+    "expected_ipo_date": null,
+    "founded_date": "2019-01-01T00:00:00",
+    "headquarters": "San Francisco, CA",
+    "website": "https://recursionpharmaceuticals.com"
+  },
+  {
+    "company_id": "5eea74a756f0dcea",
+    "name": "Benchling",
+    "sector": "Biotech_Infra",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "Biotech infrastructure - Benchling",
+    "funding_rounds": [
+      {
+        "date": "2024-07-27T00:00:00",
+        "amount": 625000000.0,
+        "lead_investor": "Thrive Capital",
+        "valuation": 6100000000.0,
+        "round_type": "Series E"
+      }
+    ],
+    "total_funding": 625000000.0,
+    "last_valuation": 6100000000.0,
+    "patent_grants": [],
+    "patent_count": 101,
+    "executive_hires": [],
+    "employee_count": 577,
+    "engineer_pct": 55.755167175904035,
+    "faang_talent_pct": 27.27075607507642,
+    "public_proxies": [],
+    "fortune_500_customers": 850,
+    "estimated_arr": 185000000.0,
+    "ipo_probability_6mo": 0.37506350151413065,
+    "ipo_probability_12mo": 0.41606152869159374,
+    "expected_ipo_date": null,
+    "founded_date": "2016-01-01T00:00:00",
+    "headquarters": "Boston, MA",
+    "website": "https://benchling.com"
+  },
+  {
+    "company_id": "fc4d85d83b12966c",
+    "name": "Insitro",
+    "sector": "Biotech_Infra",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "Biotech infrastructure - Insitro",
+    "funding_rounds": [
+      {
+        "date": "2024-01-07T00:00:00",
+        "amount": 643000000.0,
+        "lead_investor": "Flagship Pioneering",
+        "valuation": 2800000000.0,
+        "round_type": "Series E"
+      }
+    ],
+    "total_funding": 643000000.0,
+    "last_valuation": 2800000000.0,
+    "patent_grants": [],
+    "patent_count": 97,
+    "executive_hires": [],
+    "employee_count": 1183,
+    "engineer_pct": 54.049882865818255,
+    "faang_talent_pct": 18.64111404592393,
+    "public_proxies": [],
+    "fortune_500_customers": 8,
+    "estimated_arr": 0.0,
+    "ipo_probability_6mo": 0.34802364786846474,
+    "ipo_probability_12mo": 0.343502254143644,
+    "expected_ipo_date": null,
+    "founded_date": "2017-01-01T00:00:00",
+    "headquarters": "South San Francisco, CA",
+    "website": "https://insitro.com"
+  },
+  {
+    "company_id": "10221a0d44870bac",
+    "name": "Ginkgo Bioworks",
+    "sector": "Biotech_Infra",
+    "wave_category": "Wave1",
+    "bottleneck_solved": "Biotech infrastructure - Ginkgo Bioworks",
+    "funding_rounds": [
+      {
+        "date": "2024-07-08T00:00:00",
+        "amount": 2200000000.0,
+        "lead_investor": "Flagship Pioneering",
+        "valuation": 3500000000.0,
+        "round_type": "Series D"
+      }
+    ],
+    "total_funding": 2200000000.0,
+    "last_valuation": 3500000000.0,
+    "patent_grants": [],
+    "patent_count": 71,
+    "executive_hires": [],
+    "employee_count": 1045,
+    "engineer_pct": 52.43325181677478,
+    "faang_talent_pct": 21.700149757383997,
+    "public_proxies": [],
+    "fortune_500_customers": 45,
+    "estimated_arr": 210000000.0,
+    "ipo_probability_6mo": 0.21300086199611395,
+    "ipo_probability_12mo": 0.3794200034662828,
+    "expected_ipo_date": null,
+    "founded_date": "2014-01-01T00:00:00",
+    "headquarters": "San Francisco, CA",
+    "website": "https://ginkgobioworks.com"
+  }
+]

@@ -1,0 +1,347 @@
+{
+  "report_date": "2025-11-05T21:53:32.318901",
+  "ipo_window_health": "open",
+  "macro_conditions": {
+    "ipo_window": "open",
+    "volatility": "medium",
+    "interest_rates": "neutral"
+  },
+  "signals_generated": 50,
+  "high_conviction_count": 13,
+  "average_momentum_score": 39.642199999999995,
+  "top_10_momentum_plays": [
+    {
+      "rank": 1,
+      "company": "CoreWeave",
+      "sector": "AI_Infra",
+      "momentum_score": 62.97,
+      "hype_score": 33.0,
+      "build_score": 82.95,
+      "moat_score": 78.12,
+      "recommendation": "BUY",
+      "conviction": 0.83594,
+      "position_size": "4-5% portfolio",
+      "public_proxy": "NVDA (GPU supplier, correlation 0.78)",
+      "pre_ipo_access": "Secondary market access (Forge/EquityZen), estimated valuation $19000M",
+      "entry_timing": "Immediate (mispriced execution momentum)",
+      "next_catalyst": "IPO Filing Expected",
+      "expected_return": "40-80% (18-24 months, mispricing corrects)",
+      "time_horizon": "12-24 months (long-term)",
+      "risk_factors": [
+        "IPO window dependency (market conditions)"
+      ]
+    },
+    {
+      "rank": 2,
+      "company": "Groq",
+      "sector": "AI_Infra",
+      "momentum_score": 62.22,
+      "hype_score": 33.0,
+      "build_score": 81.7,
+      "moat_score": 74.54,
+      "recommendation": "BUY",
+      "conviction": 0.82128,
+      "position_size": "3-5% portfolio",
+      "public_proxy": "NVDA (Competitor exposure, correlation 0.65)",
+      "pre_ipo_access": null,
+      "entry_timing": "Immediate (mispriced execution momentum)",
+      "next_catalyst": "IPO Filing Expected",
+      "expected_return": "40-80% (18-24 months, mispricing corrects)",
+      "time_horizon": "12-24 months (long-term)",
+      "risk_factors": []
+    },
+    {
+      "rank": 3,
+      "company": "Cerebras Systems",
+      "sector": "AI_Infra",
+      "momentum_score": 59.56,
+      "hype_score": 33.0,
+      "build_score": 77.26,
+      "moat_score": 72.76,
+      "recommendation": "BUY",
+      "conviction": 0.79112,
+      "position_size": "3-5% portfolio",
+      "public_proxy": "NVDA (Training hardware competitor, correlation 0.58)",
+      "pre_ipo_access": "Secondary market access (Forge/EquityZen), estimated valuation $4000M",
+      "entry_timing": "Immediate (mispriced execution momentum)",
+      "next_catalyst": "IPO Filing Expected",
+      "expected_return": "40-80% (18-24 months, mispricing corrects)",
+      "time_horizon": "12-24 months (long-term)",
+      "risk_factors": []
+    },
+    {
+      "rank": 4,
+      "company": "Together AI",
+      "sector": "AI_Infra",
+      "momentum_score": 58.98,
+      "hype_score": 24.0,
+      "build_score": 82.3,
+      "moat_score": 72.12,
+      "recommendation": "BUY",
+      "conviction": 0.7840400000000001,
+      "position_size": "3-5% portfolio",
+      "public_proxy": "SKYY (Cloud Computing ETF) or WCLD",
+      "pre_ipo_access": null,
+      "entry_timing": "Immediate (mispriced execution momentum)",
+      "next_catalyst": "M&A Exit Potential",
+      "expected_return": "40-80% (18-24 months, mispricing corrects)",
+      "time_horizon": "12-24 months (long-term)",
+      "risk_factors": [
+        "Requires additional funding rounds (dilution risk)"
+      ]
+    },
+    {
+      "rank": 5,
+      "company": "Lambda Labs",
+      "sector": "AI_Infra",
+      "momentum_score": 57.38,
+      "hype_score": 33.0,
+      "build_score": 73.63,
+      "moat_score": 71.72,
+      "recommendation": "BUY",
+      "conviction": 0.76724,
+      "position_size": "3-5% portfolio",
+      "public_proxy": "NVDA (GPU reseller, correlation 0.72)",
+      "pre_ipo_access": null,
+      "entry_timing": "Immediate (mispriced execution momentum)",
+      "next_catalyst": "M&A Exit Potential",
+      "expected_return": "40-80% (18-24 months, mispricing corrects)",
+      "time_horizon": "12-24 months (long-term)",
+      "risk_factors": [
+        "Requires additional funding rounds (dilution risk)"
+      ]
+    },
+    {
+      "rank": 6,
+      "company": "Modular",
+      "sector": "AI_Infra",
+      "momentum_score": 57.38,
+      "hype_score": 24.0,
+      "build_score": 79.64,
+      "moat_score": 70.0,
+      "recommendation": "BUY",
+      "conviction": 0.7638,
+      "position_size": "2-4% portfolio",
+      "public_proxy": "SKYY (Cloud Computing ETF) or WCLD",
+      "pre_ipo_access": null,
+      "entry_timing": "Immediate (mispriced execution momentum)",
+      "next_catalyst": "M&A Exit Potential",
+      "expected_return": "40-80% (18-24 months, mispricing corrects)",
+      "time_horizon": "12-24 months (long-term)",
+      "risk_factors": [
+        "Requires additional funding rounds (dilution risk)"
+      ]
+    },
+    {
+      "rank": 7,
+      "company": "SambaNova Systems",
+      "sector": "AI_Infra",
+      "momentum_score": 57.25,
+      "hype_score": 24.0,
+      "build_score": 79.42,
+      "moat_score": 69.86,
+      "recommendation": "BUY",
+      "conviction": 0.76222,
+      "position_size": "2-4% portfolio",
+      "public_proxy": "SKYY (Cloud Computing ETF) or WCLD",
+      "pre_ipo_access": null,
+      "entry_timing": "Immediate (mispriced execution momentum)",
+      "next_catalyst": "IPO Filing Expected",
+      "expected_return": "40-80% (18-24 months, mispricing corrects)",
+      "time_horizon": "12-24 months (long-term)",
+      "risk_factors": []
+    },
+    {
+      "rank": 8,
+      "company": "d-Matrix",
+      "sector": "AI_Infra",
+      "momentum_score": 57.24,
+      "hype_score": 24.0,
+      "build_score": 79.4,
+      "moat_score": 69.71,
+      "recommendation": "BUY",
+      "conviction": 0.76182,
+      "position_size": "2-4% portfolio",
+      "public_proxy": "SKYY (Cloud Computing ETF) or WCLD",
+      "pre_ipo_access": null,
+      "entry_timing": "Immediate (mispriced execution momentum)",
+      "next_catalyst": "M&A Exit Potential",
+      "expected_return": "40-80% (18-24 months, mispricing corrects)",
+      "time_horizon": "12-24 months (long-term)",
+      "risk_factors": [
+        "Requires additional funding rounds (dilution risk)"
+      ]
+    },
+    {
+      "rank": 9,
+      "company": "Anyscale",
+      "sector": "AI_Infra",
+      "momentum_score": 56.31,
+      "hype_score": 24.0,
+      "build_score": 77.85,
+      "moat_score": 69.05,
+      "recommendation": "BUY",
+      "conviction": 0.7512000000000001,
+      "position_size": "2-4% portfolio",
+      "public_proxy": "SKYY (Cloud Computing ETF) or WCLD",
+      "pre_ipo_access": null,
+      "entry_timing": "Immediate (mispriced execution momentum)",
+      "next_catalyst": "M&A Exit Potential",
+      "expected_return": "40-80% (18-24 months, mispricing corrects)",
+      "time_horizon": "12-24 months (long-term)",
+      "risk_factors": []
+    },
+    {
+      "rank": 10,
+      "company": "Weights & Biases",
+      "sector": "AI_Infra",
+      "momentum_score": 55.67,
+      "hype_score": 24.0,
+      "build_score": 76.78,
+      "moat_score": 68.66,
+      "recommendation": "BUY",
+      "conviction": 0.74402,
+      "position_size": "2-4% portfolio",
+      "public_proxy": "SKYY (Cloud Computing ETF) or WCLD",
+      "pre_ipo_access": null,
+      "entry_timing": "Immediate (mispriced execution momentum)",
+      "next_catalyst": "M&A Exit Potential",
+      "expected_return": "40-80% (18-24 months, mispricing corrects)",
+      "time_horizon": "12-24 months (long-term)",
+      "risk_factors": []
+    }
+  ],
+  "emerging_bottlenecks": [
+    {
+      "bottleneck_name": "AI Model Serving Latency",
+      "description": "Infrastructure bottleneck in low-latency inference serving for production AI applications. Edge deployment and real-time response requirements driving demand for specialized inference infrastructure.",
+      "confidence": 0.87,
+      "evidence": [
+        "34 patent grants in 'low-latency serving' cluster (up 340% YoY)",
+        "a16z published infrastructure thesis: 'The Inference Wars'",
+        "12 SEC filings mentioned 'inference optimization' in Q4 2024",
+        "Sequoia Capital memo on 'The $200B Inference Market'",
+        "Google Trends: 'inference optimization' up 230% YoY"
+      ],
+      "private_companies": [
+        "Groq",
+        "Modular",
+        "SambaNova",
+        "Cerebras",
+        "d-Matrix",
+        "Tenstorrent"
+      ],
+      "public_proxies": [
+        "NVDA",
+        "AVGO",
+        "AMD"
+      ],
+      "sector": "AI_Infra",
+      "priority": "CRITICAL"
+    },
+    {
+      "bottleneck_name": "Agentic AI Orchestration Infrastructure",
+      "description": "Lack of robust orchestration and reliability infrastructure for multi-agent AI systems. As AI agents proliferate, need for workflow management, inter-agent communication, and failure handling becomes critical.",
+      "confidence": 0.82,
+      "evidence": [
+        "18 VC theses published on 'AI agents' and 'orchestration' in Q4 2024",
+        "Benchmark Capital: 'The Agent Operating System'",
+        "Microsoft, Google launching agent frameworks signals market formation",
+        "56 startups raised $2.1B for agent infrastructure in 2024",
+        "Gartner prediction: '25% of enterprises will deploy AI agents by 2026'"
+      ],
+      "private_companies": [
+        "LangChain (LangSmith)",
+        "Fixie.ai",
+        "Relevance AI",
+        "MultiOn",
+        "Adept"
+      ],
+      "public_proxies": [
+        "MSFT",
+        "GOOGL",
+        "CRM"
+      ],
+      "sector": "AI_Infra",
+      "priority": "CRITICAL"
+    },
+    {
+      "bottleneck_name": "Sovereign AI Infrastructure",
+      "description": "National security and data sovereignty driving demand for localized AI compute infrastructure. Countries building domestic AI capabilities to reduce dependence on US hyperscalers.",
+      "confidence": 0.79,
+      "evidence": [
+        "EU AI Act creating regulatory moat for European AI infrastructure",
+        "Middle East sovereign wealth funds investing $50B+ in AI datacenters",
+        "Japan, India announcing national AI infrastructure programs",
+        "CoreWeave expanding into UAE, Saudi Arabia for sovereign cloud",
+        "15 countries announced AI sovereignty initiatives in 2024"
+      ],
+      "private_companies": [
+        "CoreWeave",
+        "Lambda Labs",
+        "Crusoe Energy",
+        "Applied Digital"
+      ],
+      "public_proxies": [
+        "EQIX",
+        "DLR",
+        "VRT"
+      ],
+      "sector": "AI_Infra",
+      "priority": "HIGH"
+    },
+    {
+      "bottleneck_name": "Post-Quantum Cryptography Migration",
+      "description": "NIST finalization of post-quantum cryptography standards (2024) triggering enterprise migration wave. Massive infrastructure replacement cycle as quantum threat becomes imminent.",
+      "confidence": 0.75,
+      "evidence": [
+        "NIST published PQC standards in August 2024",
+        "NSA mandating PQC for classified systems by 2025",
+        "Banking sector required to begin PQC migration by 2026",
+        "23 security vendors announced PQC products in 2024",
+        "Estimated $15B+ in cryptography infrastructure replacement needed"
+      ],
+      "private_companies": [
+        "PQShield",
+        "Quantum Xchange",
+        "ISARA Corporation",
+        "Post-Quantum"
+      ],
+      "public_proxies": [
+        "PANW",
+        "FTNT",
+        "ZS",
+        "CRWD"
+      ],
+      "sector": "Cybersecurity",
+      "priority": "HIGH"
+    },
+    {
+      "bottleneck_name": "Energy-Efficient AI Chip Architecture",
+      "description": "Power consumption of AI training and inference becoming prohibitive. Datacenter power constraints and carbon targets driving demand for specialized low-power AI silicon.",
+      "confidence": 0.81,
+      "evidence": [
+        "45 patent grants in 'energy-efficient neural processing' (up 280% YoY)",
+        "Major hyperscalers announcing custom low-power AI chips",
+        "EU datacenter power regulations tightening in 2025",
+        "Analog AI chip startups raised $1.2B in 2024",
+        "Industry consortium formed for 'Green AI Computing' standards"
+      ],
+      "private_companies": [
+        "Graphcore",
+        "d-Matrix",
+        "Rain AI",
+        "Mythic",
+        "Untether AI"
+      ],
+      "public_proxies": [
+        "ARM",
+        "INTC",
+        "NVDA"
+      ],
+      "sector": "Semiconductors",
+      "priority": "HIGH"
+    }
+  ],
+  "second_order_plays": []
+}
