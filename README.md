@@ -65,7 +65,21 @@ pip install -r requirements.txt
 PYTHONPATH=/home/user/Tsunami python src/engine.py
 ```
 
-### 3. View Reports
+### 3. View the Dashboard 🎯 **NEW!**
+```bash
+# Launch the web dashboard
+cd web && python3 server.py
+
+# Open in browser: http://localhost:8000/index.html
+```
+
+**Beautiful, intuitive web interface** with:
+- Executive summary stats
+- Interactive signals table
+- Emerging bottlenecks cards
+- Clean, responsive design
+
+### 4. View CLI Reports (Alternative)
 ```bash
 # Markdown report
 cat outputs/reports/weekly_alpha_report_YYYYMMDD.md
@@ -97,6 +111,12 @@ Tsunami/
 │   │   ├── trade_signals.py    # Signal generation
 │   │   └── backtesting.py      # Historical validation
 │   └── engine.py               # Main orchestration
+├── web/                        # 🎯 Beautiful web dashboard
+│   ├── index.html              # Standalone dashboard (all-in-one)
+│   ├── server.py               # Simple Python HTTP server
+│   └── README.md               # Web dashboard docs
+├── backend/
+│   └── app.py                  # Flask REST API (optional)
 ├── data/
 │   ├── companies.json          # 50 company dataset
 │   └── company_generator.py    # Data generation
